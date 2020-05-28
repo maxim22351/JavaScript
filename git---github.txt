@@ -7,3 +7,13 @@ git config --global user.emil max.furman2014@gmail.com - довать польз
 
 git status - проверка статука 
 git add -A - Добавать все файли 
+git commit -a -m"названия контрольной точке" - создать конктольну точку 
+
+git checkout - збросить до преведущий контрольно точки
+
+git log - проверка какие есть контрольние точки 
+
+
+git remote add origin https://github.com/maxim22351/JavaScript.git - перенести в github
+git push -u origin master - передать на github
+git push - после подключения 
