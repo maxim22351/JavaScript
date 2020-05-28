@@ -1,15 +1,17 @@
-let ones = 1,
+let names = 50,
     two = 85;
 
-switch (ones) {
-    case ones == 1:
-        console.log('yes');
+
+
+switch (names) {
+    case  51:
+        console.log('Hello_two');
         break;
-    case ones < 1:
-        console.log('no');
+    case  names < 52:
+        console.log('Hello_223');
         break; 
     default: 
-      console.log(58);
+      console.log('Hello');
       break;     
       
 
