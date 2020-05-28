@@ -1,0 +1,9 @@
+git init - начало работы
+git config --local user.name "Max"- довать пользувателя локально для конктерного проекта 
+git config --local user.emil max.furman2014@gmail.com - довать пользувателя локально для конктерного проекта 
+ 		
+git config --global user.name "Max" - довать пользувателя глобально 
+git config --global user.emil max.furman2014@gmail.com - довать пользувателя глобально 
+
+git status - проверка статука 
+git add -A - Добавать все файли 
