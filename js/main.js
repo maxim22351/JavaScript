@@ -1,18 +1,6 @@
-let names = 50,
-    two = 85;
-
-
-
-switch (names) {
-    case  51:
-        console.log('Hello_two');
+for ( let i = 1; i < 15; i++){
+    if(i == 10){
         break;
-    case  names < 52:
-        console.log('Hello_223');
-        break; 
-    default: 
-      console.log('Hello');
-      break;     
-      
-
-}    
+    }
+    console.log(i);
+}
